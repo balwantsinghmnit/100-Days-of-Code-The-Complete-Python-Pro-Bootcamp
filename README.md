@@ -9,3 +9,4 @@
 <h3>Day 6: Python Functions</h3>
 <h3>Day 7: Hangman Project</h3>
 <h3>Day 8: Function Parameters & Caesar Cipher</h3>
+<h3>Day 9: Dictionaries, Nesting and the Secret Auction</h3>
